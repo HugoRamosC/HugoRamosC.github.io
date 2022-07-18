@@ -1,5 +1,11 @@
-#inicio{
+* {
+    background-color: #0E1428;
+    color: white;
+}
+
+#main-title{
     font-family: 'Edu VIC WA NT Beginner', cursive;
+    
 }
 
     
